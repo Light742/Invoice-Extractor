@@ -1,0 +1,5 @@
+{
+  "name": "Invoice Data Extractor",
+  "description": "Automate the extraction of specific invoice data points from uploaded documents for Malita Power Inc.",
+  "requestFramePermissions": []
+}
